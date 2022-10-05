@@ -27,3 +27,35 @@ body {
 .footer {
     background-image: url(3.jpg);
 }
+
+.cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.title {
+    font-size: 20px;
+    letter-spacing: 20px;
+    font-family: fantasy;
+    color: black;
+}
+.asd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.tittle {
+    font-size: 20px;
+    letter-spacing: 20px;
+    font-family: fantasy;
+    color: white;
+}
+.puisi {
+   
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
